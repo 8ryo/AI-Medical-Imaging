@@ -6,7 +6,7 @@ AI Medical Imaging tool to help people in remote areas identify breast cancer an
 
 Just pull the specific folder you want to work on:
 
-``terminal
+``
 git clone --no-checkout https://github.com/user/repo.git
 cd repo
 git sparse-checkout init --cone
