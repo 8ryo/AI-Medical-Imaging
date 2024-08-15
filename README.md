@@ -13,3 +13,7 @@ git sparse-checkout init --cone
 git sparse-checkout set <folder path from repo root>
 git pull origin <branch name>
 ```
+
+## Git Ignore
+
+If you want to use virtual environments, add the path of your `.venv` to `.gitignore`
