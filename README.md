@@ -21,6 +21,7 @@ If you want to use virtual environments, add the path of your `.venv` to `.gitig
 ## Branches
 
 - Main (Final)
-  - UI
-  - AI Model
-  - Server  
+  - Consolidate
+    - AI Model
+    - UI
+    - Server
